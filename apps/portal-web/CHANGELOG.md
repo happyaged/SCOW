@@ -1,5 +1,15 @@
 # @scow/portal-web
 
+## 1.0.1
+
+### Patch Changes
+
+- 5bb922fe: 修改门户系统连接 shell 时 url 只显示登录节点的 address
+- 51903e07: 登录操作判断由 referer 改为 queryString 传 fromAuth 参数
+- Updated dependencies [5bb922fe]
+  - @scow/config@1.0.1
+  - @scow/lib-operation-log@2.0.0
+
 ## 1.0.0
 
 ### Major Changes

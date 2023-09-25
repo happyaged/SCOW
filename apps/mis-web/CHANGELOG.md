@@ -1,5 +1,16 @@
 # @scow/mis-web
 
+## 1.0.1
+
+### Patch Changes
+
+- 51903e07: 登录操作判断由 referer 改为 queryString 传 fromAuth 参数
+- c50b18e2: 修改 mis-web 下后端返回的操作日志内容，在 mis-web 前端处理操作类型，操作行为，操作详细的展示
+- f4f14ba5: 新增创建用户和从账户中移除用户操作等待提示语
+- Updated dependencies [5bb922fe]
+  - @scow/config@1.0.1
+  - @scow/lib-operation-log@2.0.0
+
 ## 1.0.0
 
 ### Major Changes
