@@ -1,5 +1,12 @@
 # @scow/docs
 
+## 1.0.1
+
+### Patch Changes
+
+- 01c54f2c: 将使用文档从文档网站移出
+- 01c54f2c: 修改文档网站架构图和说明
+
 ## 1.0.0
 
 ### Major Changes

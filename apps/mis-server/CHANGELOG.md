@@ -1,5 +1,16 @@
 # @scow/mis-server
 
+## 1.0.1
+
+### Patch Changes
+
+- Updated dependencies [eca87eae]
+- Updated dependencies [5bb922fe]
+  - @scow/lib-scheduler-adapter@1.0.1
+  - @scow/config@1.0.1
+  - @scow/lib-hook@1.0.0
+  - @scow/lib-server@1.0.0
+
 ## 1.0.0
 
 ### Major Changes
