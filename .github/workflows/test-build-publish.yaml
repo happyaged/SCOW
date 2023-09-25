@@ -2,8 +2,11 @@ name: Test, Build and Publish Projects
 
 on:
   workflow_dispatch:
+  issue_comment:
+    types: [created]
   pull_request:
     branches: [master]
+    types: [opened]
   push:
     tags:
       - "v**"
