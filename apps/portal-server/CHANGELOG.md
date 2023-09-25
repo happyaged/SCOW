@@ -1,5 +1,16 @@
 # @scow/portal-server
 
+## 1.0.1
+
+### Patch Changes
+
+- eca87eae: 修复当作业相关的时间为 0 时，返回空字符串的情况
+- Updated dependencies [eca87eae]
+- Updated dependencies [5bb922fe]
+  - @scow/lib-scheduler-adapter@1.0.1
+  - @scow/config@1.0.1
+  - @scow/lib-server@1.0.0
+
 ## 1.0.0
 
 ### Major Changes

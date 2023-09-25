@@ -1,5 +1,11 @@
 # @scow/config
 
+## 1.0.1
+
+### Patch Changes
+
+- 5bb922fe: 增加集群配置文件中登录节点 LoginNode 地址唯一性验证
+
 ## 1.0.0
 
 ### Major Changes
